@@ -1,5 +1,0 @@
-I want to code linux
-ls -lrt
-///// second commit to be updated //////
-// third commit to be updated //////
-There is no more things to update
